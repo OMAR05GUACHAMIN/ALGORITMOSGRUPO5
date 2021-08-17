@@ -1,0 +1,3 @@
+Tipo:A Tamanio:1 Precio:520 Kilos:12 Ganancias:6242.4 
+Tipo:B Tamanio:2 Precio:140 Kilos:8 Ganancias:1116 
+Tipo:A Tamanio:1 Precio:450 Kilos:8 Ganancias:3601.6 
